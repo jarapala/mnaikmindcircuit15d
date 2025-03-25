@@ -1,4 +1,4 @@
-WELCOME to Mc DEVOPS BATCH15D MAR25, AT MIND CIRCUIT WE DO NOT JUST TRAIN , WE BUILD , COACH & MENTOR !  
+ !  
 
 <!DOCTYPE html>
 <html lang="en" id="facebook" class="no_js">
