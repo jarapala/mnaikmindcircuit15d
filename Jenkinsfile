@@ -9,7 +9,7 @@ pipeline {
         stage('CLONE GITHUB CODE') {
             steps {
                 echo 'In this stage code will be clone'
-				git branch: 'main', url: 'https://github.com/devopstraininghub/mindcircuit15d.git'
+				git branch: 'main', url: 'https://github.com/jarapala/mnaikmindcircuit15d.git'
 				
 				}
         }
